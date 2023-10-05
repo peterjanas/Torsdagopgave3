@@ -1,2 +1,3 @@
 # Torsdagopgave3
- opgaver
+ Peter Janas 
+cph-pj282@cphbusiness.dk
